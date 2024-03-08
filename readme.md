@@ -5,7 +5,7 @@ EaseExcel is a Python package designed to facilitate the transfer of data from d
 If you encounter any errors during installation, you may need to install the following packages before trying again:
 
 ```bash
-pip install sqlalchmey xlsxwriter
+pip install SQLAlchemy XlsxWriter
 ```
 
 # Usage
@@ -88,5 +88,3 @@ async def main():
 asyncio.run(main())
 
 ```
-
-<img src='doc/Excel.png' height='200' width='300'>
