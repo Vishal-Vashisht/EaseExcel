@@ -2,6 +2,9 @@
 EaseExcel is a Python package designed to facilitate the transfer of data from databases to Excel. It seamlessly integrates with SQLAlchemy, supporting connections to various database types.
 
 # Installation
+```bash
+    pip install EaseExcel
+```
 If you encounter any errors during installation, you may need to install the following packages before trying again:
 
 ```bash
